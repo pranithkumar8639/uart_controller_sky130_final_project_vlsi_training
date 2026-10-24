@@ -1,0 +1,1215 @@
+[INFO ODB-0227] LEF file: /home/vsduser/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef, created 14 layers, 25 vias
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/vsduser/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/vsduser/.volare/volare/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef, created 437 library cells
+[INFO PDN-0001] Inserting grid: CORE_GRID
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 21.5200) - (20.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 26.9600) - (20.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 32.4000) - (20.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 37.8400) - (20.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 43.2800) - (20.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 48.7200) - (20.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 54.1600) - (20.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 59.6000) - (20.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 65.0400) - (20.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 70.4800) - (20.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 75.9200) - (20.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 81.3600) - (20.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 86.8000) - (20.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 92.2400) - (20.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 97.6800) - (20.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 103.1200) - (20.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 108.5600) - (20.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 114.0000) - (20.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 119.4400) - (20.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 124.8800) - (20.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 130.3200) - (20.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 135.7600) - (20.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 141.2000) - (20.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 146.6400) - (20.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 152.0800) - (20.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 157.5200) - (20.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 162.9600) - (20.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 168.4000) - (20.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 173.8400) - (20.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 179.2800) - (20.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 184.7200) - (20.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 190.1600) - (20.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 195.6000) - (20.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 201.0400) - (20.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 206.4800) - (20.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 211.9200) - (20.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 217.3600) - (20.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 222.8000) - (20.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 228.2400) - (20.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 233.6800) - (20.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 239.1200) - (20.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 244.5600) - (20.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 250.0000) - (20.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 255.4400) - (20.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 260.8800) - (20.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 266.3200) - (20.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 271.7600) - (20.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 277.2000) - (20.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 282.6400) - (20.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 288.0800) - (20.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 293.5200) - (20.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 298.9600) - (20.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 304.4000) - (20.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 309.8400) - (20.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 315.2800) - (20.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 320.7200) - (20.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 326.1600) - (20.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 331.6000) - (20.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 337.0400) - (20.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 342.4800) - (20.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 347.9200) - (20.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 353.3600) - (20.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 358.8000) - (20.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 364.2400) - (20.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 369.6800) - (20.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 375.1200) - (20.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 380.5600) - (20.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 386.0000) - (20.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 391.4400) - (20.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 396.8800) - (20.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 402.3200) - (20.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 407.7600) - (20.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 413.2000) - (20.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 418.6400) - (20.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 424.0800) - (20.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 429.5200) - (20.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 434.9600) - (20.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 440.4000) - (20.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 445.8400) - (20.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 451.2800) - (20.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 456.7200) - (20.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 462.1600) - (20.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 467.6000) - (20.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 473.0400) - (20.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.1700, 478.4800) - (20.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 24.2400) - (20.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 29.6800) - (20.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 35.1200) - (20.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 40.5600) - (20.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 46.0000) - (20.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 51.4400) - (20.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 56.8800) - (20.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 62.3200) - (20.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 67.7600) - (20.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 73.2000) - (20.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 78.6400) - (20.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 84.0800) - (20.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 89.5200) - (20.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 94.9600) - (20.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 100.4000) - (20.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 105.8400) - (20.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 111.2800) - (20.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 116.7200) - (20.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 122.1600) - (20.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 127.6000) - (20.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 133.0400) - (20.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 138.4800) - (20.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 143.9200) - (20.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 149.3600) - (20.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 154.8000) - (20.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 160.2400) - (20.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 165.6800) - (20.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 171.1200) - (20.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 176.5600) - (20.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 182.0000) - (20.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 187.4400) - (20.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 192.8800) - (20.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 198.3200) - (20.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 203.7600) - (20.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 209.2000) - (20.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 214.6400) - (20.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 220.0800) - (20.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 225.5200) - (20.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 230.9600) - (20.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 236.4000) - (20.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 241.8400) - (20.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 247.2800) - (20.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 252.7200) - (20.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 258.1600) - (20.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 263.6000) - (20.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 269.0400) - (20.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 274.4800) - (20.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 279.9200) - (20.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 285.3600) - (20.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 290.8000) - (20.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 296.2400) - (20.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 301.6800) - (20.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 307.1200) - (20.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 312.5600) - (20.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 318.0000) - (20.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 323.4400) - (20.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 328.8800) - (20.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 334.3200) - (20.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 339.7600) - (20.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 345.2000) - (20.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 350.6400) - (20.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 356.0800) - (20.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 361.5200) - (20.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 366.9600) - (20.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 372.4000) - (20.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 377.8400) - (20.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 383.2800) - (20.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 388.7200) - (20.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 394.1600) - (20.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 399.6000) - (20.5900, 400.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 405.0400) - (20.5900, 405.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 410.4800) - (20.5900, 410.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 415.9200) - (20.5900, 416.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 421.3600) - (20.5900, 421.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 426.8000) - (20.5900, 427.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 432.2400) - (20.5900, 432.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 437.6800) - (20.5900, 438.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 443.1200) - (20.5900, 443.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 448.5600) - (20.5900, 449.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 454.0000) - (20.5900, 454.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 459.4400) - (20.5900, 459.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 464.8800) - (20.5900, 465.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 470.3200) - (20.5900, 470.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (20.4500, 475.7600) - (20.5900, 476.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 21.5200) - (30.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 26.9600) - (30.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 32.4000) - (30.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 37.8400) - (30.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 43.2800) - (30.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 48.7200) - (30.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 54.1600) - (30.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 59.6000) - (30.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 65.0400) - (30.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 70.4800) - (30.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 75.9200) - (30.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 81.3600) - (30.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 86.8000) - (30.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 92.2400) - (30.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 97.6800) - (30.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 103.1200) - (30.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 108.5600) - (30.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 114.0000) - (30.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 119.4400) - (30.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 124.8800) - (30.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 130.3200) - (30.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 135.7600) - (30.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 141.2000) - (30.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 146.6400) - (30.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 152.0800) - (30.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 157.5200) - (30.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 162.9600) - (30.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 168.4000) - (30.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 173.8400) - (30.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 179.2800) - (30.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 184.7200) - (30.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 190.1600) - (30.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 195.6000) - (30.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 201.0400) - (30.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 206.4800) - (30.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 211.9200) - (30.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 217.3600) - (30.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 222.8000) - (30.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 228.2400) - (30.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 233.6800) - (30.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 239.1200) - (30.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 244.5600) - (30.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 250.0000) - (30.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 255.4400) - (30.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 260.8800) - (30.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 266.3200) - (30.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 271.7600) - (30.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 277.2000) - (30.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 282.6400) - (30.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 288.0800) - (30.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 293.5200) - (30.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 298.9600) - (30.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 304.4000) - (30.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 309.8400) - (30.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 315.2800) - (30.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 320.7200) - (30.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 326.1600) - (30.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 331.6000) - (30.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 337.0400) - (30.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 342.4800) - (30.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 347.9200) - (30.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 353.3600) - (30.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 358.8000) - (30.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 364.2400) - (30.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 369.6800) - (30.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 375.1200) - (30.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 380.5600) - (30.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 386.0000) - (30.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 391.4400) - (30.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 396.8800) - (30.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 402.3200) - (30.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 407.7600) - (30.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 413.2000) - (30.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 418.6400) - (30.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 424.0800) - (30.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 429.5200) - (30.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 434.9600) - (30.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 440.4000) - (30.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 445.8400) - (30.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 451.2800) - (30.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 456.7200) - (30.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 462.1600) - (30.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 467.6000) - (30.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 473.0400) - (30.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.1700, 478.4800) - (30.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 24.2400) - (30.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 29.6800) - (30.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 35.1200) - (30.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 40.5600) - (30.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 46.0000) - (30.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 51.4400) - (30.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 56.8800) - (30.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 62.3200) - (30.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 67.7600) - (30.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 73.2000) - (30.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 78.6400) - (30.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 84.0800) - (30.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 89.5200) - (30.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 94.9600) - (30.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 100.4000) - (30.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 105.8400) - (30.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 111.2800) - (30.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 116.7200) - (30.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 122.1600) - (30.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 127.6000) - (30.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 133.0400) - (30.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 138.4800) - (30.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 143.9200) - (30.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 149.3600) - (30.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 154.8000) - (30.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 160.2400) - (30.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 165.6800) - (30.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 171.1200) - (30.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 176.5600) - (30.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 182.0000) - (30.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 187.4400) - (30.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 192.8800) - (30.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 198.3200) - (30.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 203.7600) - (30.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 209.2000) - (30.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 214.6400) - (30.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 220.0800) - (30.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 225.5200) - (30.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 230.9600) - (30.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 236.4000) - (30.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 241.8400) - (30.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 247.2800) - (30.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 252.7200) - (30.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 258.1600) - (30.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 263.6000) - (30.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 269.0400) - (30.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 274.4800) - (30.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 279.9200) - (30.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 285.3600) - (30.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 290.8000) - (30.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 296.2400) - (30.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 301.6800) - (30.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 307.1200) - (30.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 312.5600) - (30.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 318.0000) - (30.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 323.4400) - (30.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 328.8800) - (30.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 334.3200) - (30.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 339.7600) - (30.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 345.2000) - (30.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 350.6400) - (30.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 356.0800) - (30.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 361.5200) - (30.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 366.9600) - (30.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 372.4000) - (30.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 377.8400) - (30.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 383.2800) - (30.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 388.7200) - (30.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 394.1600) - (30.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 399.6000) - (30.5900, 400.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 405.0400) - (30.5900, 405.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 410.4800) - (30.5900, 410.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 415.9200) - (30.5900, 416.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 421.3600) - (30.5900, 421.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 426.8000) - (30.5900, 427.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 432.2400) - (30.5900, 432.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 437.6800) - (30.5900, 438.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 443.1200) - (30.5900, 443.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 448.5600) - (30.5900, 449.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 454.0000) - (30.5900, 454.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 459.4400) - (30.5900, 459.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 464.8800) - (30.5900, 465.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 470.3200) - (30.5900, 470.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (30.4500, 475.7600) - (30.5900, 476.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 21.5200) - (40.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 26.9600) - (40.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 32.4000) - (40.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 37.8400) - (40.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 43.2800) - (40.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 48.7200) - (40.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 54.1600) - (40.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 59.6000) - (40.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 65.0400) - (40.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 70.4800) - (40.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 75.9200) - (40.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 81.3600) - (40.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 86.8000) - (40.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 92.2400) - (40.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 97.6800) - (40.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 103.1200) - (40.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 108.5600) - (40.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 114.0000) - (40.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 119.4400) - (40.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 124.8800) - (40.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 130.3200) - (40.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 135.7600) - (40.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 141.2000) - (40.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 146.6400) - (40.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 152.0800) - (40.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 157.5200) - (40.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 162.9600) - (40.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 168.4000) - (40.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 173.8400) - (40.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 179.2800) - (40.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 184.7200) - (40.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 190.1600) - (40.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 195.6000) - (40.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 201.0400) - (40.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 206.4800) - (40.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 211.9200) - (40.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 217.3600) - (40.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 222.8000) - (40.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 228.2400) - (40.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 233.6800) - (40.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 239.1200) - (40.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 244.5600) - (40.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 250.0000) - (40.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 255.4400) - (40.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 260.8800) - (40.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 266.3200) - (40.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 271.7600) - (40.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 277.2000) - (40.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 282.6400) - (40.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 288.0800) - (40.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 293.5200) - (40.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 298.9600) - (40.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 304.4000) - (40.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 309.8400) - (40.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 315.2800) - (40.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 320.7200) - (40.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 326.1600) - (40.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 331.6000) - (40.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 337.0400) - (40.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 342.4800) - (40.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 347.9200) - (40.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 353.3600) - (40.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 358.8000) - (40.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 364.2400) - (40.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 369.6800) - (40.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 375.1200) - (40.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 380.5600) - (40.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 386.0000) - (40.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 391.4400) - (40.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 396.8800) - (40.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 402.3200) - (40.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 407.7600) - (40.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 413.2000) - (40.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 418.6400) - (40.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 424.0800) - (40.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 429.5200) - (40.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 434.9600) - (40.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 440.4000) - (40.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 445.8400) - (40.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 451.2800) - (40.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 456.7200) - (40.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 462.1600) - (40.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 467.6000) - (40.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 473.0400) - (40.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.1700, 478.4800) - (40.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 24.2400) - (40.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 29.6800) - (40.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 35.1200) - (40.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 40.5600) - (40.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 46.0000) - (40.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 51.4400) - (40.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 56.8800) - (40.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 62.3200) - (40.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 67.7600) - (40.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 73.2000) - (40.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 78.6400) - (40.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 84.0800) - (40.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 89.5200) - (40.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 94.9600) - (40.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 100.4000) - (40.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 105.8400) - (40.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 111.2800) - (40.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 116.7200) - (40.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 122.1600) - (40.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 127.6000) - (40.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 133.0400) - (40.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 138.4800) - (40.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 143.9200) - (40.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 149.3600) - (40.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 154.8000) - (40.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 160.2400) - (40.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 165.6800) - (40.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 171.1200) - (40.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 176.5600) - (40.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 182.0000) - (40.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 187.4400) - (40.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 192.8800) - (40.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 198.3200) - (40.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 203.7600) - (40.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 209.2000) - (40.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 214.6400) - (40.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 220.0800) - (40.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 225.5200) - (40.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 230.9600) - (40.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 236.4000) - (40.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 241.8400) - (40.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 247.2800) - (40.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 252.7200) - (40.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 258.1600) - (40.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 263.6000) - (40.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 269.0400) - (40.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 274.4800) - (40.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 279.9200) - (40.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 285.3600) - (40.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 290.8000) - (40.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 296.2400) - (40.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 301.6800) - (40.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 307.1200) - (40.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 312.5600) - (40.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 318.0000) - (40.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 323.4400) - (40.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 328.8800) - (40.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 334.3200) - (40.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 339.7600) - (40.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 345.2000) - (40.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 350.6400) - (40.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 356.0800) - (40.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 361.5200) - (40.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 366.9600) - (40.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 372.4000) - (40.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 377.8400) - (40.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 383.2800) - (40.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 388.7200) - (40.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 394.1600) - (40.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 399.6000) - (40.5900, 400.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 405.0400) - (40.5900, 405.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 410.4800) - (40.5900, 410.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 415.9200) - (40.5900, 416.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 421.3600) - (40.5900, 421.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 426.8000) - (40.5900, 427.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 432.2400) - (40.5900, 432.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 437.6800) - (40.5900, 438.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 443.1200) - (40.5900, 443.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 448.5600) - (40.5900, 449.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 454.0000) - (40.5900, 454.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 459.4400) - (40.5900, 459.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 464.8800) - (40.5900, 465.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 470.3200) - (40.5900, 470.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (40.4500, 475.7600) - (40.5900, 476.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 21.5200) - (50.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 26.9600) - (50.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 32.4000) - (50.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 37.8400) - (50.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 43.2800) - (50.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 48.7200) - (50.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 54.1600) - (50.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 59.6000) - (50.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 65.0400) - (50.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 70.4800) - (50.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 75.9200) - (50.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 81.3600) - (50.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 86.8000) - (50.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 92.2400) - (50.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 97.6800) - (50.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 103.1200) - (50.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 108.5600) - (50.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 114.0000) - (50.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 119.4400) - (50.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 124.8800) - (50.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 130.3200) - (50.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 135.7600) - (50.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 141.2000) - (50.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 146.6400) - (50.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 152.0800) - (50.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 157.5200) - (50.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 162.9600) - (50.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 168.4000) - (50.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 173.8400) - (50.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 179.2800) - (50.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 184.7200) - (50.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 190.1600) - (50.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 195.6000) - (50.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 201.0400) - (50.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 206.4800) - (50.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 211.9200) - (50.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 217.3600) - (50.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 222.8000) - (50.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 228.2400) - (50.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 233.6800) - (50.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 239.1200) - (50.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 244.5600) - (50.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 250.0000) - (50.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 255.4400) - (50.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 260.8800) - (50.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 266.3200) - (50.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 271.7600) - (50.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 277.2000) - (50.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 282.6400) - (50.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 288.0800) - (50.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 293.5200) - (50.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 298.9600) - (50.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 304.4000) - (50.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 309.8400) - (50.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 315.2800) - (50.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 320.7200) - (50.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 326.1600) - (50.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 331.6000) - (50.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 337.0400) - (50.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 342.4800) - (50.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 347.9200) - (50.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 353.3600) - (50.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 358.8000) - (50.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 364.2400) - (50.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 369.6800) - (50.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 375.1200) - (50.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 380.5600) - (50.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 386.0000) - (50.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 391.4400) - (50.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 396.8800) - (50.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 402.3200) - (50.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 407.7600) - (50.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 413.2000) - (50.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 418.6400) - (50.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 424.0800) - (50.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 429.5200) - (50.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 434.9600) - (50.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 440.4000) - (50.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 445.8400) - (50.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 451.2800) - (50.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 456.7200) - (50.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 462.1600) - (50.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 467.6000) - (50.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 473.0400) - (50.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.1700, 478.4800) - (50.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 24.2400) - (50.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 29.6800) - (50.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 35.1200) - (50.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 40.5600) - (50.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 46.0000) - (50.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 51.4400) - (50.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 56.8800) - (50.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 62.3200) - (50.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 67.7600) - (50.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 73.2000) - (50.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 78.6400) - (50.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 84.0800) - (50.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 89.5200) - (50.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 94.9600) - (50.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 100.4000) - (50.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 105.8400) - (50.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 111.2800) - (50.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 116.7200) - (50.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 122.1600) - (50.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 127.6000) - (50.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 133.0400) - (50.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 138.4800) - (50.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 143.9200) - (50.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 149.3600) - (50.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 154.8000) - (50.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 160.2400) - (50.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 165.6800) - (50.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 171.1200) - (50.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 176.5600) - (50.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 182.0000) - (50.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 187.4400) - (50.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 192.8800) - (50.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 198.3200) - (50.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 203.7600) - (50.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 209.2000) - (50.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 214.6400) - (50.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 220.0800) - (50.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 225.5200) - (50.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 230.9600) - (50.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 236.4000) - (50.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 241.8400) - (50.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 247.2800) - (50.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 252.7200) - (50.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 258.1600) - (50.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 263.6000) - (50.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 269.0400) - (50.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 274.4800) - (50.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 279.9200) - (50.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 285.3600) - (50.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 290.8000) - (50.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 296.2400) - (50.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 301.6800) - (50.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 307.1200) - (50.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 312.5600) - (50.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 318.0000) - (50.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 323.4400) - (50.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 328.8800) - (50.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 334.3200) - (50.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 339.7600) - (50.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 345.2000) - (50.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 350.6400) - (50.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 356.0800) - (50.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 361.5200) - (50.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 366.9600) - (50.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 372.4000) - (50.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 377.8400) - (50.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 383.2800) - (50.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 388.7200) - (50.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 394.1600) - (50.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 399.6000) - (50.5900, 400.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 405.0400) - (50.5900, 405.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 410.4800) - (50.5900, 410.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 415.9200) - (50.5900, 416.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 421.3600) - (50.5900, 421.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 426.8000) - (50.5900, 427.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 432.2400) - (50.5900, 432.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 437.6800) - (50.5900, 438.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 443.1200) - (50.5900, 443.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 448.5600) - (50.5900, 449.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 454.0000) - (50.5900, 454.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 459.4400) - (50.5900, 459.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 464.8800) - (50.5900, 465.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 470.3200) - (50.5900, 470.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (50.4500, 475.7600) - (50.5900, 476.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 21.5200) - (60.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 26.9600) - (60.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 32.4000) - (60.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 37.8400) - (60.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 43.2800) - (60.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 48.7200) - (60.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 54.1600) - (60.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 59.6000) - (60.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 65.0400) - (60.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 70.4800) - (60.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 75.9200) - (60.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 81.3600) - (60.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 86.8000) - (60.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 92.2400) - (60.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 97.6800) - (60.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 103.1200) - (60.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 108.5600) - (60.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 114.0000) - (60.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 119.4400) - (60.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 124.8800) - (60.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 130.3200) - (60.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 135.7600) - (60.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 141.2000) - (60.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 146.6400) - (60.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 152.0800) - (60.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 157.5200) - (60.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 162.9600) - (60.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 168.4000) - (60.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 173.8400) - (60.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 179.2800) - (60.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 184.7200) - (60.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 190.1600) - (60.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 195.6000) - (60.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 201.0400) - (60.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 206.4800) - (60.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 211.9200) - (60.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 217.3600) - (60.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 222.8000) - (60.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 228.2400) - (60.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 233.6800) - (60.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 239.1200) - (60.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 244.5600) - (60.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 250.0000) - (60.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 255.4400) - (60.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 260.8800) - (60.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 266.3200) - (60.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 271.7600) - (60.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 277.2000) - (60.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 282.6400) - (60.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 288.0800) - (60.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 293.5200) - (60.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 298.9600) - (60.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 304.4000) - (60.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 309.8400) - (60.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 315.2800) - (60.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 320.7200) - (60.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 326.1600) - (60.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 331.6000) - (60.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 337.0400) - (60.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 342.4800) - (60.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 347.9200) - (60.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 353.3600) - (60.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 358.8000) - (60.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 364.2400) - (60.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 369.6800) - (60.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 375.1200) - (60.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 380.5600) - (60.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 386.0000) - (60.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 391.4400) - (60.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 396.8800) - (60.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 402.3200) - (60.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 407.7600) - (60.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 413.2000) - (60.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 418.6400) - (60.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 424.0800) - (60.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 429.5200) - (60.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 434.9600) - (60.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 440.4000) - (60.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 445.8400) - (60.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 451.2800) - (60.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 456.7200) - (60.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 462.1600) - (60.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 467.6000) - (60.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 473.0400) - (60.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.1700, 478.4800) - (60.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 24.2400) - (60.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 29.6800) - (60.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 35.1200) - (60.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 40.5600) - (60.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 46.0000) - (60.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 51.4400) - (60.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 56.8800) - (60.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 62.3200) - (60.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 67.7600) - (60.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 73.2000) - (60.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 78.6400) - (60.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 84.0800) - (60.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 89.5200) - (60.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 94.9600) - (60.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 100.4000) - (60.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 105.8400) - (60.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 111.2800) - (60.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 116.7200) - (60.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 122.1600) - (60.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 127.6000) - (60.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 133.0400) - (60.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 138.4800) - (60.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 143.9200) - (60.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 149.3600) - (60.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 154.8000) - (60.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 160.2400) - (60.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 165.6800) - (60.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 171.1200) - (60.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 176.5600) - (60.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 182.0000) - (60.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 187.4400) - (60.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 192.8800) - (60.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 198.3200) - (60.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 203.7600) - (60.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 209.2000) - (60.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 214.6400) - (60.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 220.0800) - (60.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 225.5200) - (60.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 230.9600) - (60.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 236.4000) - (60.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 241.8400) - (60.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 247.2800) - (60.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 252.7200) - (60.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 258.1600) - (60.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 263.6000) - (60.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 269.0400) - (60.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 274.4800) - (60.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 279.9200) - (60.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 285.3600) - (60.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 290.8000) - (60.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 296.2400) - (60.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 301.6800) - (60.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 307.1200) - (60.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 312.5600) - (60.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 318.0000) - (60.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 323.4400) - (60.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 328.8800) - (60.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 334.3200) - (60.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 339.7600) - (60.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 345.2000) - (60.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 350.6400) - (60.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 356.0800) - (60.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 361.5200) - (60.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 366.9600) - (60.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 372.4000) - (60.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 377.8400) - (60.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 383.2800) - (60.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 388.7200) - (60.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 394.1600) - (60.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 399.6000) - (60.5900, 400.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 405.0400) - (60.5900, 405.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 410.4800) - (60.5900, 410.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 415.9200) - (60.5900, 416.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 421.3600) - (60.5900, 421.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 426.8000) - (60.5900, 427.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 432.2400) - (60.5900, 432.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 437.6800) - (60.5900, 438.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 443.1200) - (60.5900, 443.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 448.5600) - (60.5900, 449.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 454.0000) - (60.5900, 454.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 459.4400) - (60.5900, 459.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 464.8800) - (60.5900, 465.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 470.3200) - (60.5900, 470.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (60.4500, 475.7600) - (60.5900, 476.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 21.5200) - (70.3100, 22.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 26.9600) - (70.3100, 27.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 32.4000) - (70.3100, 32.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 37.8400) - (70.3100, 38.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 43.2800) - (70.3100, 43.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 48.7200) - (70.3100, 49.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 54.1600) - (70.3100, 54.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 59.6000) - (70.3100, 60.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 65.0400) - (70.3100, 65.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 70.4800) - (70.3100, 70.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 75.9200) - (70.3100, 76.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 81.3600) - (70.3100, 81.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 86.8000) - (70.3100, 87.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 92.2400) - (70.3100, 92.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 97.6800) - (70.3100, 98.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 103.1200) - (70.3100, 103.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 108.5600) - (70.3100, 109.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 114.0000) - (70.3100, 114.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 119.4400) - (70.3100, 119.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 124.8800) - (70.3100, 125.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 130.3200) - (70.3100, 130.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 135.7600) - (70.3100, 136.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 141.2000) - (70.3100, 141.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 146.6400) - (70.3100, 147.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 152.0800) - (70.3100, 152.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 157.5200) - (70.3100, 158.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 162.9600) - (70.3100, 163.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 168.4000) - (70.3100, 168.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 173.8400) - (70.3100, 174.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 179.2800) - (70.3100, 179.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 184.7200) - (70.3100, 185.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 190.1600) - (70.3100, 190.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 195.6000) - (70.3100, 196.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 201.0400) - (70.3100, 201.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 206.4800) - (70.3100, 206.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 211.9200) - (70.3100, 212.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 217.3600) - (70.3100, 217.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 222.8000) - (70.3100, 223.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 228.2400) - (70.3100, 228.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 233.6800) - (70.3100, 234.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 239.1200) - (70.3100, 239.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 244.5600) - (70.3100, 245.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 250.0000) - (70.3100, 250.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 255.4400) - (70.3100, 255.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 260.8800) - (70.3100, 261.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 266.3200) - (70.3100, 266.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 271.7600) - (70.3100, 272.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 277.2000) - (70.3100, 277.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 282.6400) - (70.3100, 283.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 288.0800) - (70.3100, 288.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 293.5200) - (70.3100, 294.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 298.9600) - (70.3100, 299.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 304.4000) - (70.3100, 304.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 309.8400) - (70.3100, 310.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 315.2800) - (70.3100, 315.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 320.7200) - (70.3100, 321.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 326.1600) - (70.3100, 326.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 331.6000) - (70.3100, 332.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 337.0400) - (70.3100, 337.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 342.4800) - (70.3100, 342.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 347.9200) - (70.3100, 348.4000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 353.3600) - (70.3100, 353.8400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 358.8000) - (70.3100, 359.2800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 364.2400) - (70.3100, 364.7200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 369.6800) - (70.3100, 370.1600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 375.1200) - (70.3100, 375.6000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 380.5600) - (70.3100, 381.0400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 386.0000) - (70.3100, 386.4800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 391.4400) - (70.3100, 391.9200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 396.8800) - (70.3100, 397.3600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 402.3200) - (70.3100, 402.8000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 407.7600) - (70.3100, 408.2400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 413.2000) - (70.3100, 413.6800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 418.6400) - (70.3100, 419.1200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 424.0800) - (70.3100, 424.5600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 429.5200) - (70.3100, 430.0000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 434.9600) - (70.3100, 435.4400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 440.4000) - (70.3100, 440.8800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 445.8400) - (70.3100, 446.3200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 451.2800) - (70.3100, 451.7600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 456.7200) - (70.3100, 457.2000) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 462.1600) - (70.3100, 462.6400) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 467.6000) - (70.3100, 468.0800) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 473.0400) - (70.3100, 473.5200) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.1700, 478.4800) - (70.3100, 478.9600) on VSS
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 24.2400) - (70.5900, 24.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 29.6800) - (70.5900, 30.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 35.1200) - (70.5900, 35.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 40.5600) - (70.5900, 41.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 46.0000) - (70.5900, 46.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 51.4400) - (70.5900, 51.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 56.8800) - (70.5900, 57.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 62.3200) - (70.5900, 62.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 67.7600) - (70.5900, 68.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 73.2000) - (70.5900, 73.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 78.6400) - (70.5900, 79.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 84.0800) - (70.5900, 84.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 89.5200) - (70.5900, 90.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 94.9600) - (70.5900, 95.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 100.4000) - (70.5900, 100.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 105.8400) - (70.5900, 106.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 111.2800) - (70.5900, 111.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 116.7200) - (70.5900, 117.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 122.1600) - (70.5900, 122.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 127.6000) - (70.5900, 128.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 133.0400) - (70.5900, 133.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 138.4800) - (70.5900, 138.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 143.9200) - (70.5900, 144.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 149.3600) - (70.5900, 149.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 154.8000) - (70.5900, 155.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 160.2400) - (70.5900, 160.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 165.6800) - (70.5900, 166.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 171.1200) - (70.5900, 171.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 176.5600) - (70.5900, 177.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 182.0000) - (70.5900, 182.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 187.4400) - (70.5900, 187.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 192.8800) - (70.5900, 193.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 198.3200) - (70.5900, 198.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 203.7600) - (70.5900, 204.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 209.2000) - (70.5900, 209.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 214.6400) - (70.5900, 215.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 220.0800) - (70.5900, 220.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 225.5200) - (70.5900, 226.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 230.9600) - (70.5900, 231.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 236.4000) - (70.5900, 236.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 241.8400) - (70.5900, 242.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 247.2800) - (70.5900, 247.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 252.7200) - (70.5900, 253.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 258.1600) - (70.5900, 258.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 263.6000) - (70.5900, 264.0800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 269.0400) - (70.5900, 269.5200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 274.4800) - (70.5900, 274.9600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 279.9200) - (70.5900, 280.4000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 285.3600) - (70.5900, 285.8400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 290.8000) - (70.5900, 291.2800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 296.2400) - (70.5900, 296.7200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 301.6800) - (70.5900, 302.1600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 307.1200) - (70.5900, 307.6000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 312.5600) - (70.5900, 313.0400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 318.0000) - (70.5900, 318.4800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 323.4400) - (70.5900, 323.9200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 328.8800) - (70.5900, 329.3600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 334.3200) - (70.5900, 334.8000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 339.7600) - (70.5900, 340.2400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 345.2000) - (70.5900, 345.6800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 350.6400) - (70.5900, 351.1200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 356.0800) - (70.5900, 356.5600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 361.5200) - (70.5900, 362.0000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 366.9600) - (70.5900, 367.4400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 372.4000) - (70.5900, 372.8800) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 377.8400) - (70.5900, 378.3200) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 383.2800) - (70.5900, 383.7600) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 388.7200) - (70.5900, 389.2000) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 394.1600) - (70.5900, 394.6400) on VDD
+[WARNING PDN-0110] No via inserted between met1 and met2 at (70.4500, 399.6000) - (70.5900, 400.0800) on VDD
+[WARNING PDN-0110] message limit (1000) reached. This message will no longer print.
+[WARNING PDN-0200] Removing floating shape: VSS (20.1700, 21.5200) - (20.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 22.2100) - (20.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (30.1700, 21.5200) - (30.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (30.4500, 22.2100) - (30.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (40.1700, 21.5200) - (40.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (40.4500, 22.2100) - (40.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (50.1700, 21.5200) - (50.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (50.4500, 22.2100) - (50.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (60.1700, 21.5200) - (60.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (60.4500, 22.2100) - (60.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (70.1700, 21.5200) - (70.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (70.4500, 22.2100) - (70.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (80.1700, 21.5200) - (80.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (80.4500, 22.2100) - (80.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (90.1700, 21.5200) - (90.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (90.4500, 22.2100) - (90.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (100.1700, 21.5200) - (100.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (100.4500, 22.2100) - (100.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (110.1700, 21.5200) - (110.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (110.4500, 22.2100) - (110.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (120.1700, 21.5200) - (120.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (120.4500, 22.2100) - (120.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (130.1700, 21.5200) - (130.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (130.4500, 22.2100) - (130.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (140.1700, 21.5200) - (140.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (140.4500, 22.2100) - (140.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (150.1700, 21.5200) - (150.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (150.4500, 22.2100) - (150.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (160.1700, 21.5200) - (160.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (160.4500, 22.2100) - (160.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (170.1700, 21.5200) - (170.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (170.4500, 22.2100) - (170.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (180.1700, 21.5200) - (180.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (180.4500, 22.2100) - (180.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (190.1700, 21.5200) - (190.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (190.4500, 22.2100) - (190.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (200.1700, 21.5200) - (200.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (200.4500, 22.2100) - (200.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (210.1700, 21.5200) - (210.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (210.4500, 22.2100) - (210.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (220.1700, 21.5200) - (220.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (220.4500, 22.2100) - (220.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (230.1700, 21.5200) - (230.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (230.4500, 22.2100) - (230.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (240.1700, 21.5200) - (240.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (240.4500, 22.2100) - (240.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (250.1700, 21.5200) - (250.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (250.4500, 22.2100) - (250.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (260.1700, 21.5200) - (260.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (260.4500, 22.2100) - (260.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (270.1700, 21.5200) - (270.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (270.4500, 22.2100) - (270.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (280.1700, 21.5200) - (280.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (280.4500, 22.2100) - (280.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (290.1700, 21.5200) - (290.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (290.4500, 22.2100) - (290.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (300.1700, 21.5200) - (300.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (300.4500, 22.2100) - (300.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (310.1700, 21.5200) - (310.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (310.4500, 22.2100) - (310.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (320.1700, 21.5200) - (320.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (320.4500, 22.2100) - (320.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (330.1700, 21.5200) - (330.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (330.4500, 22.2100) - (330.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (340.1700, 21.5200) - (340.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (340.4500, 22.2100) - (340.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (350.1700, 21.5200) - (350.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (350.4500, 22.2100) - (350.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (360.1700, 21.5200) - (360.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (360.4500, 22.2100) - (360.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (370.1700, 21.5200) - (370.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (370.4500, 22.2100) - (370.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (380.1700, 21.5200) - (380.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (380.4500, 22.2100) - (380.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (390.1700, 21.5200) - (390.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (390.4500, 22.2100) - (390.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (400.1700, 21.5200) - (400.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (400.4500, 22.2100) - (400.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (410.1700, 21.5200) - (410.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (410.4500, 22.2100) - (410.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (420.1700, 21.5200) - (420.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (420.4500, 22.2100) - (420.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (430.1700, 21.5200) - (430.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (430.4500, 22.2100) - (430.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (440.1700, 21.5200) - (440.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (440.4500, 22.2100) - (440.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (450.1700, 21.5200) - (450.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (450.4500, 22.2100) - (450.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (460.1700, 21.5200) - (460.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (460.4500, 22.2100) - (460.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (470.1700, 21.5200) - (470.3100, 478.9600) on met2
+[WARNING PDN-0200] Removing floating shape: VDD (470.4500, 22.2100) - (470.5900, 476.2400) on met2
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 21.6100) - (470.3100, 21.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 31.6100) - (470.3100, 31.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 41.6100) - (470.3100, 41.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 51.6100) - (470.3100, 51.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 61.6100) - (470.3100, 61.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 71.6100) - (470.3100, 71.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 81.6100) - (470.3100, 81.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 91.6100) - (470.3100, 91.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 101.6100) - (470.3100, 101.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 111.6100) - (470.3100, 111.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 121.6100) - (470.3100, 121.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 131.6100) - (470.3100, 131.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 141.6100) - (470.3100, 141.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 151.6100) - (470.3100, 151.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 161.6100) - (470.3100, 161.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 171.6100) - (470.3100, 171.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 181.6100) - (470.3100, 181.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 191.6100) - (470.3100, 191.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 201.6100) - (470.3100, 201.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 211.6100) - (470.3100, 211.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 221.6100) - (470.3100, 221.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 231.6100) - (470.3100, 231.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 241.6100) - (470.3100, 241.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 251.6100) - (470.3100, 251.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 261.6100) - (470.3100, 261.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 271.6100) - (470.3100, 271.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 281.6100) - (470.3100, 281.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 291.6100) - (470.3100, 291.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 301.6100) - (470.3100, 301.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 311.6100) - (470.3100, 311.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 321.6100) - (470.3100, 321.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 331.6100) - (470.3100, 331.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 341.6100) - (470.3100, 341.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 351.6100) - (470.3100, 351.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 361.6100) - (470.3100, 361.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 371.6100) - (470.3100, 371.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 381.6100) - (470.3100, 381.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 391.6100) - (470.3100, 391.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 401.6100) - (470.3100, 401.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 411.6100) - (470.3100, 411.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 421.6100) - (470.3100, 421.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 431.6100) - (470.3100, 431.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 441.6100) - (470.3100, 441.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 451.6100) - (470.3100, 451.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 461.6100) - (470.3100, 461.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 471.6100) - (470.3100, 471.9100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 22.2100) - (470.5900, 22.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 32.2100) - (470.5900, 32.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 42.2100) - (470.5900, 42.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 52.2100) - (470.5900, 52.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 62.2100) - (470.5900, 62.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 72.2100) - (470.5900, 72.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 82.2100) - (470.5900, 82.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 92.2100) - (470.5900, 92.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 102.2100) - (470.5900, 102.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 112.2100) - (470.5900, 112.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 122.2100) - (470.5900, 122.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 132.2100) - (470.5900, 132.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 142.2100) - (470.5900, 142.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 152.2100) - (470.5900, 152.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 162.2100) - (470.5900, 162.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 172.2100) - (470.5900, 172.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 182.2100) - (470.5900, 182.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 192.2100) - (470.5900, 192.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 202.2100) - (470.5900, 202.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 212.2100) - (470.5900, 212.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 222.2100) - (470.5900, 222.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 232.2100) - (470.5900, 232.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 242.2100) - (470.5900, 242.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 252.2100) - (470.5900, 252.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 262.2100) - (470.5900, 262.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 272.2100) - (470.5900, 272.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 282.2100) - (470.5900, 282.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 292.2100) - (470.5900, 292.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 302.2100) - (470.5900, 302.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 312.2100) - (470.5900, 312.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 322.2100) - (470.5900, 322.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 332.2100) - (470.5900, 332.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 342.2100) - (470.5900, 342.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 352.2100) - (470.5900, 352.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 362.2100) - (470.5900, 362.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 372.2100) - (470.5900, 372.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 382.2100) - (470.5900, 382.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 392.2100) - (470.5900, 392.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 402.2100) - (470.5900, 402.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 412.2100) - (470.5900, 412.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 422.2100) - (470.5900, 422.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 432.2100) - (470.5900, 432.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 442.2100) - (470.5900, 442.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 452.2100) - (470.5900, 452.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 462.2100) - (470.5900, 462.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VDD (20.4500, 472.2100) - (470.5900, 472.5100) on met3
+[WARNING PDN-0200] Removing floating shape: VSS (20.2400, 21.6100) - (21.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (22.6400, 22.2100) - (24.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (59.4400, 21.6100) - (61.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (62.6400, 22.2100) - (64.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (99.4400, 21.6100) - (101.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (102.6400, 22.2100) - (104.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (139.4400, 21.6100) - (141.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (142.6400, 22.2100) - (144.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (179.4400, 21.6100) - (181.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (182.6400, 22.2100) - (184.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (219.4400, 21.6100) - (221.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (222.6400, 22.2100) - (224.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (259.4400, 21.6100) - (261.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (262.6400, 22.2100) - (264.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (299.4400, 21.6100) - (301.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (302.6400, 22.2100) - (304.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (339.4400, 21.6100) - (341.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (342.6400, 22.2100) - (344.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (379.4400, 21.6100) - (381.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (382.6400, 22.2100) - (384.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (419.4400, 21.6100) - (421.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (422.6400, 22.2100) - (424.2400, 472.5100) on met4
+[WARNING PDN-0200] Removing floating shape: VSS (459.4400, 21.6100) - (461.0400, 471.9100) on met4
+[WARNING PDN-0200] Removing floating shape: VDD (462.6400, 22.2100) - (464.2400, 472.5100) on met4

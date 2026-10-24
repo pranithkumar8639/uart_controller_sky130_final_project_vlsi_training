@@ -1,0 +1,10 @@
+UART controller, sky130_fd_sc_hd, OpenROAD flow (10 ns clock)
+
+Final results (propagated clock, placement-estimated parasitics, routed, DRC 0):
+  SS  setup +0.27 ns  hold +0.12 ns
+  TT  setup +7.74 ns  hold +0.22 ns
+  FF  setup +7.80 ns  hold +0.15 ns
+
+Functional check: RTL and gate-level loopback simulation passed (0x55, 0xA5).
+Earlier figures (SS -4.87 ns, +0.70 ns pre-layout) are superseded.
+See results/FINAL_RESULTS.md and REPRODUCE.md for details and caveats.

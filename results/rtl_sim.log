@@ -1,0 +1,39 @@
+VCD info: dumpfile uart.vcd opened for output.
+
+========================================
+TEST 1: Transmitting 0x55
+========================================
+TX START asserted
+TX DATA = 0x55
+RX VALID detected
+RX DATA = 0x55
+TX DONE detected
+Transmission completed
+
+========================================
+TEST 1 PASSED
+TX DATA = 0x55
+RX DATA = 0x55
+========================================
+
+TEST 2 START TIME = 521005000
+========================================
+TEST 2: Transmitting 0xA5
+========================================
+TX START asserted
+TX DATA = 0xa5
+>>> TEST 2: RX VALID detected
+>>> TEST 2: RX DATA = 0xa5
+>>> TEST 2: TX DONE detected
+>>> TEST 2: BOTH TX AND RX COMPLETED
+
+========================================
+TEST 2 PASSED
+TX DATA = 0xA5
+RX DATA = 0xA5
+========================================
+
+========================================
+ALL TESTS COMPLETED
+========================================
+tb/uart_tb.v:212: $finish called at 1041915000 (1ps)

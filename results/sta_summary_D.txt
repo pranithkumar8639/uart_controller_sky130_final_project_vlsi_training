@@ -1,0 +1,12 @@
+##### route_ss
+=== route_ss setup/hold worst slack ===
+worst slack max 0.27
+worst slack min 0.12
+##### route_tt
+=== route_tt setup/hold worst slack ===
+worst slack max 7.74
+worst slack min 0.22
+##### route_ff
+=== route_ff setup/hold worst slack ===
+worst slack max 7.80
+worst slack min 0.15
